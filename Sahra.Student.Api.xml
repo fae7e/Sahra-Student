@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sahra.Student.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Sahra.Student.Api.Controllers.StudentController.AddStudent(Sahra.Student.Command.StudentRequest)">
+            <summary>
+            Add New Student
+            </summary>
+        </member>
+        <member name="M:Sahra.Student.Api.Controllers.StudentController.GetAllStudent">
+            <summary>
+            Get All Students
+            </summary>
+        </member>
+        <member name="M:Sahra.Student.Api.Controllers.StudentController.GetStudentById(System.Int32)">
+            <summary>
+            Get Student By Id
+            </summary>
+        </member>
+        <member name="M:Sahra.Student.Api.Controllers.StudentController.Update(Sahra.Student.Command.StudentRequest)">
+            <summary>
+            Update an existing Student
+            </summary>
+        </member>
+        <member name="M:Sahra.Student.Api.Controllers.StudentController.Delete(System.Int32)">
+            <summary>
+            Delete an existing Student
+            </summary>
+        </member>
+    </members>
+</doc>
